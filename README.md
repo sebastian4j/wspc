@@ -1,2 +1,2 @@
 # wspc
-java spring boot cloud
+java + spring boot + cloud + rabbit mq
