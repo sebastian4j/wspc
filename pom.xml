@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     
     <modules>
-        <module>boot1</module>
+        <module>boot.server</module>
         <module>boot2</module>
     </modules>
 
