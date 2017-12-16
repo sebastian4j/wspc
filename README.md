@@ -12,4 +12,7 @@ lanzar:
 java -jar boot.server/target/boot.server-0.0.1-SNAPSHOT.jar
 
 java -jar boot2/target/boot2-0.0.1-SNAPSHOT.jar --server.port=8081
+
 java -jar boot2/target/boot2-0.0.1-SNAPSHOT.jar --server.port=8082
+
+...
